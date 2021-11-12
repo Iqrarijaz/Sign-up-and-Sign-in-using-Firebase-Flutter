@@ -1,4 +1,4 @@
-# Sign in and Sihn up using firebase Flutter
+# Sign in and Sign up using firebase Flutter
 
 A new Flutter project.
 
