@@ -1,4 +1,4 @@
-# email_password
+# Sign in and Sihn up using firebase Flutter
 
 A new Flutter project.
 
